@@ -1,0 +1,12 @@
+{
+  "name": "pizza-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/parshanapally/pizza-api.git",
+  "start": "node index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "heroku": "^7.20.1"
+  }
+}
